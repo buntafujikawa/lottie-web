@@ -1,5 +1,5 @@
 {
-  "name": "svelte-app",
+  "name": "lottie-web",
   "version": "1.0.0",
   "scripts": {
     "build": "rollup -c",
@@ -16,6 +16,8 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
-    "sirv-cli": "^0.4.4"
+    "lottie-web": "latest",
+    "sirv-cli": "^0.4.4",
+    "svelte": "latest"
   }
 }
